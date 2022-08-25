@@ -7,7 +7,7 @@ edition = "2021"
 
 # Cargo.toml
 [dependencies]
-minifb = "0.23"
+
 
 
 [features]
